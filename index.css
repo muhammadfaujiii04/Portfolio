@@ -1,0 +1,14 @@
+.jumbotron {
+  padding: 2rem 1 rem;
+  background-color: #e2edff;
+}
+
+.jumbotron img {
+  width: 180px;
+  height: 180px;
+  margin-top: 20px;
+}
+
+#Projects {
+  background-color: #e2edff;
+}
